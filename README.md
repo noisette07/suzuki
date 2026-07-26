@@ -56,6 +56,43 @@ de liaison C–X (corrélation type Arrhenius-Hammond) :
 
 ![Corrélation énergie de liaison / réactivité](assets/graphique_arrhenius_hammond.png)
 
+Distributions Monte Carlo des rendements (générées par
+`figures/gen_distributions_montecarlo.py`) :
+
+![Distributions Monte Carlo](assets/schema_montecarlo.png)
+
+## Schémas de molécules
+
+Tous les schémas de la présentation sont générés par le code (`figures/`,
+RDKit + matplotlib) — molécules dessinées depuis leur SMILES, annotations
+matplotlib par-dessus.
+
+```bash
+python3 figures/gen_schema_produit.py    # produit du couplage (idem pour les autres)
+```
+
+Le produit du couplage, avec attribution RMN colorée :
+
+![Produit du couplage](assets/schema_produit_2D.png)
+
+Une étape du cycle catalytique (transmétallation) :
+
+![Transmétallation](assets/cycle_etape3_TM.png)
+
+Espèce active du bore et diagramme de prédominance associé :
+
+![Triolborate](assets/triolborate.png)
+
+![Diagramme de prédominance](assets/diagramme_predominance.png)
+
+Mésomérie comparée tyrosine / phénylalanine (couplage en conditions
+physiologiques) :
+
+![Tyrosine vs phénylalanine](assets/tyr_phe_mesomere.png)
+
+Note : `figures/gen_ir_annote.py` annote une photo de spectre IR non incluse
+dans le dépôt.
+
 ## Structure
 
 ```
