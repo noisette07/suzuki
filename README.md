@@ -108,5 +108,11 @@ dans le dépôt.
 
 ## Références
 
-- Sakurai, H. et al. — couplage de Suzuki sur Pd/C, 5 cycles de recyclage (2002)
-- Peramo, A. et al. — couplage de Suzuki en conditions physiologiques (2019)
+- H. Sakurai, T. Tsukuda, T. Hirao. *Pd/C as a Reusable Catalyst for the
+  Coupling Reaction of Halophenols and Arylboronic Acids in Aqueous Media.*
+  J. Org. Chem. **2002**, 67 (8), 2721-2722.
+  [doi:10.1021/jo016342k](https://doi.org/10.1021/jo016342k)
+- A. Peramo. *Modification sélective de protéines en milieu biologique par
+  réaction de Suzuki-Miyaura nanocatalysée.* Thèse de doctorat, Université
+  Paris-Saclay, **2019**. NNT 2019SACLS600.
+  [tel-03908943](https://theses.hal.science/tel-03908943v1)
